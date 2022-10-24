@@ -1,8 +1,0 @@
-//Create a program that print out your name
-
-
-public class Main {
-    public static void main(String[] args){
-        System.out.println("Edgar");
-    }
-}
